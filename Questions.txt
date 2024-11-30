@@ -1,0 +1,8 @@
+Question 1:
+    Which country sent the most number of atheletes?
+
+Question 2:
+    Which country won the most number of medals?
+
+Question 3:
+    Which country has the highest winning percentage?
