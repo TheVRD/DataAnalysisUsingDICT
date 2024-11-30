@@ -1,0 +1,3 @@
+Data_Analysis_Using_DICT ver 0.0
+    -Use basic dictionary operation to perfom data analysis and answer certain questions
+    -At this stage the project is very basic and needs optimization
